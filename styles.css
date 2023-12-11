@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    background-color: #8FBC8F;
+    color: white;
+    text-align: center;
+  }
+  
+  h2 {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    background-color: #98FB98;
+    color: #6B8E23;
+    text-align: center;
+  }
+  
+  thead {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    background-color: #90EE90;
+    color: white;
+  }
+  
+  tr {
+    font-family: 'Courier New', monospace;
+    color: #6B8E23;
+  }
+  
+  table, th, td {
+    border: 1px solid;
+  }
